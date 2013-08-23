@@ -1,6 +1,6 @@
 # Minimalst
 ---
-Theme for Jekyll. Based of off [Mininal Theme](http://orderedlist.github.com/minimal/).
+Theme for Jekyll. Based off of [Mininal Theme](http://orderedlist.github.com/minimal/).
 
 ## Contact and Feedback
 
