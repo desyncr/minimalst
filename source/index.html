@@ -1,0 +1,15 @@
+---
+layout: default
+---
+{% include asides/main.html %}
+<section>
+{% assign index = true %}
+{% for post in paginator.posts %}
+{% assign content = post.content %}
+  <article>
+      {% include article.html %}
+  </article>
+{% endfor %}
+
+</section>
+{% include asides/footer.html %}
