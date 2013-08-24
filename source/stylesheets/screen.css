@@ -318,3 +318,13 @@ header p.view.last {
 footer p {
     margin: 0;
 }
+.wrapper>footer {
+    background: white;
+    bottom: 0px;
+    height: 80px;
+    width: 200px;
+}
+article footer {
+    position: static;
+    float: none;
+}
